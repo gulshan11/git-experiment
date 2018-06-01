@@ -3,7 +3,6 @@
 using namespace std;
 
 int findDup(vector<int>&arr){
-    int len = arr.size();
     // write sort logic/call from library here
     // write duplicate finding logic here
     return -1;
